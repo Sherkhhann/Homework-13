@@ -117,3 +117,94 @@
 .tx2 p{
     font-size: 18px;
 }
+.cc1 {
+    display: flex;
+    
+}
+.con3{
+    width: 70%;
+    padding-left: 100px;
+}
+.content3{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
+span{
+    font-size: 30px;
+    font-family: 300;
+}
+.conn1 h1{
+    padding: 40px 0px;
+    padding-left: 20px;
+}
+.conn1 p{
+    color: grey;
+    padding: 20px 0px;
+    padding-left: 20px;
+}
+.cc1 h1{
+    font-size: 18px;
+}
+.img3{
+    width: 27%;
+}
+.img3 img{
+    width: 100%;
+}
+.t1 h1{
+    padding: 10px 0px;
+}
+.t1 p{
+    font-size: 20px;
+    line-height: 30px;
+}
+.t1 {
+    width: 27%;
+    padding: 0px 20px;
+}
+.content4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    padding: 60px 0px;
+    padding-right: 60px;
+}
+.content4 p{
+    padding: 15px 0px;
+}
+.mcon1 {
+    width: 27%;
+    display: flex;
+    justify-content: end;
+    color: grey;
+    font-size: 20px;
+}
+.mcon2{
+    width: 27%;
+}
+.mcon3{
+    width: 27%;
+    color: white;
+}
+.mcon3 p{
+    line-height: 50px;
+}
+.content4 img{
+    width: 100%;
+}
+.mcon1 span{
+    color: white;
+    font-size: 20px;
+}
+.mcon1 span:hover{
+    color: gray;
+    font-size: 20px;
+}
+.mcon1 span:hover .mcon1 p{
+    color: white;
+    font-size: 20px;
+}
