@@ -6,6 +6,9 @@
     height: 60px;
     display: flex;
     justify-content: space-between;
+    background-color: white;
+    position: sticky;
+    top: 0;
 }
 .header1{
     display: flex;
@@ -204,7 +207,100 @@ span{
     color: gray;
     font-size: 20px;
 }
-.mcon1 span:hover .mcon1 p{
+.d {
+    text-align: end;
+}
+.cont2{
+    display: flex;
+    padding-bottom: 70px;
+    padding-top: 40px;
+}
+.content5{
+    display: flex;
+    justify-content: center;
+    padding: 40px 0px;
+    background-color: #f0ebe6;
+}
+.cont1 h1{
+    font-size: 31px;
+}
+.cont2 p{
+    font-size: 24px;
+}
+.gr {
+    padding: 0px 18px;
+    color: grey;
+}
+.cont2 .cr{
+    color: red;
+    padding-left: 15px;
+}
+.earn {
+    width: 49%;
+    line-height: 30px;
+}
+.contt2 img{
+    width: 90%;
+}
+.cont1{
+    padding-top: 40px;
+}
+.f1{
+    display: flex;
+}
+li{
+    list-style-type: none;
+    padding: 13px 0px;
+}
+.table2, .table3{
+    padding-left: 40px;
+}
+.footer{
     color: white;
-    font-size: 20px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    gap: 220px;
+    padding-top: 40px;
+}
+.f2 {
+    line-height: 30px;
+    width: 30%;
+}
+.text {
+    text-align: end;
+}
+.min {
+    color: gray;
+}
+input{
+    padding: 8px 150px 8px 20px;
+    border-radius: 30px;
+    background-color: #1e2124;
+    color: lightgrey;
+    margin: 10px 0px;
+}
+.footer1{
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.f12{
+    width: 68%;
+    padding-right: 80px;
+    border-top: 2px solid gray;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+.footer1 p{
+    padding: 10px 0px;
+}
+.imp{
+    color: gray;
+}
+.gre{
+    font-size: 16px;
+    color: #00c805;
 }
